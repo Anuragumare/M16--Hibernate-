@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="D:/EDUCATION/TNS FOUNDATION/HIBERNET JAR FILE 18/0 Hibernate JAR Files/Hibernate/antlr-2.7.7.jar"/>
 	<classpathentry kind="lib" path="D:/EDUCATION/TNS FOUNDATION/HIBERNET JAR FILE 18/0 Hibernate JAR Files/Hibernate/byte-buddy-1.8.17.jar"/>
 	<classpathentry kind="lib" path="D:/EDUCATION/TNS FOUNDATION/HIBERNET JAR FILE 18/0 Hibernate JAR Files/Hibernate/classmate-1.3.4.jar"/>
